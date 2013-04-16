@@ -22,7 +22,7 @@ namespace ControlShape
 		{
 			var persons = new List<ProductSales>
 			{
-				new ProductSales(154, 1, "January"), new ProductSales(138, 2, "February"), new ProductSales(143, 3, "March"), new ProductSales(120, 4, "April"), new ProductSales(135, 5, "May"), new ProductSales(125, 6, "June"), new ProductSales(179, 7, "July"), new ProductSales(170, 8, "August"), new ProductSales(198, 9, "September"), new ProductSales(187, 10, "October"), new ProductSales(193, 11, "November"), new ProductSales(212, 12, "December")
+				new ProductSales(1549, 1, "January"), new ProductSales(138, 2, "February"), new ProductSales(143, 3, "March"), new ProductSales(120, 4, "April"), new ProductSales(135, 5, "May"), new ProductSales(125, 6, "June"), new ProductSales(179, 7, "July"), new ProductSales(170, 8, "August"), new ProductSales(198, 9, "September"), new ProductSales(187, 10, "October"), new ProductSales(193, 11, "November"), new ProductSales(212, 12, "December")
 			};
 			return persons;
 		}
